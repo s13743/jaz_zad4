@@ -1,0 +1,13 @@
+Zapisanie nowego produktu:
+
+{
+	"name" : "Seagete",
+	"price" : 20.5,
+	"category": "hardDrive"
+}
+
+Zapisanie nowego komentarza do produktu:
+
+{
+	"content" : "produkt ok"
+}
